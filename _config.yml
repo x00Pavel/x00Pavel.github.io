@@ -20,7 +20,7 @@ title                    : "Personal website and blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Pavel Yadlouski"
-description              : "My personal wensite with resume, project and blog posts."
+description              : "My personal website with resume, project and blog posts."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Pavel Yadlouski"
   avatar           : "images/my_face.jpg" # path of avatar image, e.g. "/images/bio-photo.jpg"
-  bio              : "I'm Software developer and tester, also interested in cybersecurity."
+  bio              : "Software developer and tester, also interested in cybersecurity."
   location         : "Brno, CZ"
   linkedin: "https://www.linkedin.com/in/pavel-yadlouski-063121172/"
   email            : "mailto:pavel.yadlouski@gmail.com"
