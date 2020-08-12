@@ -94,9 +94,10 @@ analytics:
 # Site Author
 author:
   name             : "Pavel Yadlouski"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "images/my_face.jpg" # path of avatar image, e.g. "/images/bio-photo.jpg"
   bio              : "I'm Software developer and tester, also interested in cybersecurity."
   location         : "Brno, CZ"
+  linkedin: "https://www.linkedin.com/in/pavel-yadlouski-063121172/"
   # email            : pavel.yadlouski@gmail.com
   links:
     - label: "Email"
@@ -287,4 +288,3 @@ defaults:
     values:
         layout: single
         author_profile: true
-        
