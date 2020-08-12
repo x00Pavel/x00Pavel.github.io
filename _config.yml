@@ -97,7 +97,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I'm Software developer and tester, also interested in cybersecurity."
   location         : "Brno, CZ"
-  email            : pavel.yadlouski@gmail.com
+  # email            : pavel.yadlouski@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -279,3 +279,12 @@ defaults:
       comments: # true
       share: true
       related: true
+
+  # _pages
+  -scope:
+      path: ""
+      type: pages
+    values:
+        layout: single
+        author_profile: true
+        
