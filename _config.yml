@@ -97,7 +97,7 @@ author:
   avatar           : "images/my_face.jpg" # path of avatar image, e.g. "/images/bio-photo.jpg"
   bio              : "I'm Software developer and tester, also interested in cybersecurity."
   location         : "Brno, CZ"
-  # linkedin: "https://www.linkedin.com/in/pavel-yadlouski-063121172/"
+  linkedin: "https://www.linkedin.com/in/pavel-yadlouski-063121172/"
   email            : "mailto:pavel.yadlouski@gmail.com"
   links:
     - label: "Email"
