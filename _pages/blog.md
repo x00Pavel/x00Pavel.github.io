@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /blog/
+permalink: /blog
 author_profile: true
 ---
 ## My blog posts

@@ -1,6 +1,6 @@
 ---
 title: "About"
-permalink: /about/
+permalink: /about
 ---
 ## Welcome to my Website
 I'm student of Technical University in Brno, faculty of Informational
