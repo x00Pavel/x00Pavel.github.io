@@ -3,7 +3,7 @@ title: "Resume"
 author_profile: true
 permalink: /resume/
 ---
-### Actualization: 12.08.2020
+#### Actualization: 13.08.2020
 ## Education
 
 **Brno University of Technologies, Faculty of Informational Technologies**
