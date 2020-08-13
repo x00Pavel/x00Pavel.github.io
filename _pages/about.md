@@ -1,6 +1,6 @@
 ---
 title: "About"
-permalink: /
+permalink: /about
 layout: home
 ---
 ## Welcome to my Website
@@ -13,5 +13,5 @@ myself:
 + [Projects](https://github.com/x00Pavel?tab=repositories) - here is links to my GitHub account, where you can find
 all my projects that I maid during university and for myself
 
-+ [Blog](/) - here is a place, where I post my **own vision and thoughts**
++ [Blog](/blog) - here is a place, where I post my **own vision and thoughts**
 about different aspects of life in Informational Technologies.
