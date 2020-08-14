@@ -1,8 +1,9 @@
 ---
 title: "Resume"
 author_profile: true
-permalink: /resume
+permalink: /portfolio
 ---
+
 #### Actualization: 13.08.2020
 ## Education
 
@@ -25,8 +26,8 @@ developing unit tests with Googletest framework
 [IPFIX collector](https://github.com/CESNET/ipfixcol2) in C language
 ([link](https://github.com/x00Pavel/libfds/tree/agregator/src/aggregator))
 
-## Projects
 
+## Projects
 + [HTTP Resolver](https://github.com/x00Pavel/HTTP_resolver)
 Implementation of HTTP server that **translates domain name to IPv4/IPv6**
 address and back. Also addresses addresses can be read from a file. Implemented
@@ -52,6 +53,7 @@ Implementation of interpret of **theoretical language** include following steps
 of interpretation: parsing, syntax and semantic analyses and, finally,
 execution. Also, there is a set of functional tests. Implemented in **Python**
 **and PHP** languages.
+
 
 ## Hard skills
 + Python **4/5**
