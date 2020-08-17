@@ -13,11 +13,13 @@ permalink: /portfolio
 
 
 ## Workexperience
-1. **[Red Hat](https://www.redhat.com/)** - QA Engineer (Intern)
+1. **[Red Hat](https://www.redhat.com/)** - QA Engineer (Intern)<br>
+02.2020 - Present
 + Developing of functional tests for package managers Koji and Brew using Python
 language and Pytest framework
 
-2. **[CESNET](https://www.cesnet.cz/)** - Software Developer and tester
+2. **[CESNET](https://www.cesnet.cz/)** - Software Developer and tester<br>
+05.2019 - 12.2019
 + Implementation of IPFIX converter for second generation of
 [IPFIX collector](https://github.com/CESNET/ipfixcol2) using C language and
 developing unit tests with Googletest framework
