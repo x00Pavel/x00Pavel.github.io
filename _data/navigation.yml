@@ -4,7 +4,5 @@ main:
       url: /about
     - title: "Projects"
       url: "https://github.com/x00Pavel?tab=repositories"
-    - title: "Blog"
-      url: /blog
     - title: "Portfolio"
       url: /portfolio
