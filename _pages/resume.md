@@ -1,7 +1,7 @@
 ---
 title: "Resume"
 author_profile: true
-permalink: /portfolio
+permalink: /resume
 ---
 
 #### Actualization: 13.08.2020
