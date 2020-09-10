@@ -53,14 +53,19 @@ compilation. Implemented in **C language** without any external libraries
 + [Interpret](https://github.com/x00Pavel/Interpret)
 Implementation of interpret of **theoretical language** include following steps
 of interpretation: parsing, syntax and semantic analyses and, finally,
-execution. Also, there is a set of functional tests. Implemented in **Python**
-**and PHP** languages.
+execution. Also, there is a set of functional tests. Implemented in 
+**Python** and **PHP** languages.
+
++ [Telegram bot](https://github.com/x00Pavel/telegram-bot)
+Bot for telegram channel, that helps to manage this channel and 
+provides basic information for users. It uses **AWS S3** bucket to store static 
+files and **Heroku** for deploy. Written in **Python** language.
 
 
 ## Hard skills
 + Python **4/5**
-+ Linux **4/5**
 + Git **4/5**
++ Linux **3/5**
 + C **3/5**
 + Java **2/5**
 + SQL **2/5**
