@@ -118,6 +118,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "Stackoverflow"
+      icon: "fab fa-fw fa-stack-overflow"
+      url: "https://stackoverflow.com/users/12675629/plov-ec?tab=profile"
 
 # Site Footer
 footer:
@@ -130,7 +133,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/x00Pavel"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
