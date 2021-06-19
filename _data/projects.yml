@@ -1,0 +1,46 @@
+- title: "Application for festival management"
+  link: https://github.com/x00Pavel/ICS
+  description: "Desktop application for festival management in **.NET Core** and **WPF**. Application 
+aims to provide management of music bands, stages and performances. Frontend is 
+implemented with MVVM pattern. Backend use data access layer with business 
+logic on top of it. In business logic Facade pattern is used with other 
+corresponding  patterns."
+
+- title: "SSL monitor"
+  link: "https://github.com/x00Pavel/SSL-monitor"
+  description: "Simple CLI application for monitoring SSL communication and provide some basic
+statics for closed connection. Can run in two mode: offline processing from 
+pcap file and live capturing. Implemented in **C** language using PCAP library."
+
+- title: "HTTP Resolver"
+  link: https://github.com/x00Pavel/HTTP_resolver
+  description: "Implementation of HTTP server that **translates domain name to IPv4/IPv6**
+address and back. Also addresses addresses can be read from a file. Implemented
+in **Python** language."
+
+- title: "Sniffer"
+  link: https://github.com/x00Pavel/Sniffer
+  description: "Simple packet sniffer, that sniffers packets on given interface and port.
+Output is on the standard output with specific formatting. Only TCP and UDP
+packets are supported. Implemented in **C language using libpcap library**."
+
+- title: "Simulation of public transport"
+  link: https://github.com/x00Pavel/IJA-1
+  description: "This is desktop application with interactive GUI. Applications simulates moving
+of public transport based on inner clock. There are some **interactive futures**,
+such as changing line of transport, changing street congestion, setting time to
+start from and other. Implemented in **Java with using JavaFX** package."
+
+- title: "Compiler"
+  link: https://github.com/x00Pavel/IFJ-compiler
+  description: "Implementation of compiler of **theoretical language** with all steps of
+compilation. Implemented in **C language** without any external libraries."
+
+- title: "Interpret"
+  link: https://github.com/x00Pavel/Interpret
+  description: "Implementation of interpret of **theoretical language** include following steps
+of interpretation: parsing, syntax and semantic analyses and, finally,
+execution. Also, there is a set of functional tests. Implemented in 
+**Python** and **PHP** languages."
+
+
