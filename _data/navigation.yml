@@ -3,6 +3,6 @@ main:
     - title: "About"
       url: /about
     - title: "Projects"
-      url: "https://github.com/x00Pavel?tab=repositories"
+      url: "/projects"
     - title: "Resume"
       url: /resume

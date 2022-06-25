@@ -46,28 +46,27 @@ developing unit tests with Googletest framework
 
 ## Projects
 
-{% for item in site.data.projects %}
-
-+ [{{ item.title }}]({{ item.url }}) {{ item.description }}
-{% endfor %}
+The most interesting projects can be found on [Projects](/projects) page.
+All projects are located on the personal [GitHub](https://github.com/x00Pavel) account.
 
 ## Hard skills
 
-+ Python **4/5**
++ Python & Pytest **5/5**
++ Bash **4/5**
 + Git **4/5**
-+ Linux **3/5**
-+ C **3/5**
-+ Java **2/5**
-+ SQL **2/5**
-+ Network **2/5**
-+ Pytest,JUnit,GTest **2/5**
++ Linux **4/5**
 + LaTeX **4/5**
++ Network **3/5**
++ C **3/5**
++ SQL **2/5**
 
 ## Soft skills
 
 + Agile team player
-+ Fast learning
-+ Communicative
++ Fast learner
++ Effective communication
++ Empathy
++ Critical thinking
 
 ## Languages
 
