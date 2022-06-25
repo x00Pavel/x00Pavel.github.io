@@ -95,14 +95,14 @@ analytics:
 author:
   name             : "Pavel Yadlouski"
   avatar           : "images/my_face.jpg" # path of avatar image, e.g. "/images/bio-photo.jpg"
-  bio              : "Software developer and tester, also interested in cybersecurity."
+  bio              : "Software developer and tester, interested in cybersecurity."
   location         : "Brno, CZ"
-  linkedin: "pavel-yadlouski-063121172"
+  linkedin         : "pavel-yadlouski-063121172"
   email            : "mailto:pavel.yadlouski@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:pavel.yadlouski@gmail.com"
+      url: "mailto:pavel.yadlouski@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
