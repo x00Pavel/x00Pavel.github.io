@@ -13,4 +13,3 @@ Check following pages to get more information about myself:
   **professional experience**, here is my resume.
 + [Projects](/projects) - page with some description of the most interesting
   projects I made/still doing during my personal and professional career.  
-
