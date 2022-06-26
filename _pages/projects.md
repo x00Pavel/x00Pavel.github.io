@@ -6,7 +6,7 @@ permalink: /projects
  
 This page is dedicated to my most interest personal and open source projects I've done during my career in IT.
 Projects are grouped by area of IT and type of the application.
-> Several projects are team projects were I was a project lead.
+> Several projects are team projects where I was a project lead.
 
 ---
 
@@ -15,13 +15,13 @@ Projects are grouped by area of IT and type of the application.
 ### [SCAutolib](https://github.com/x00Pavel/SCAutolib)
 
 Framework for automating testing of smart cards in RHEL/Fedora.
-Project was developed from scratch, mostly everything around smart cards testing has to be done if frame of this project by my as an intern.
+Project was developed from scratch, mostly everything around smart cards testing has to be done if frame of this project by me as an intern.
 Testing of smart cards is not so trivial task as it seems to be, because there is no such component in Linux as "smart card".
-So testing of this technology requires testing of the whole stack of technologies that make smart card work in RHEL/Fedora.
+So testing of this technology requires testing of the whole stack of technologies that makes smart cards work in RHEL/Fedora.
 
 SCAutolib framework provides automated way to setup the system and to provide functionality for testing by itself using virtual smart cards.
-From setup perspective, SCAutolib installs/setups required packages and services (like SSSD, OpenSC, SoftHSM2 for virtual card), setups required CA's (local CA, IPA client for already deployed IPA server), adds users to corresponding systems (local system and/or remote IPA server).
-After setup is done, configured services/users/systems can be used in tests.
+From setup perspective, SCAutolib installs/setups required packages and services (like SSSD, OpenSC, SoftHSM2 for virtual card), setups required CA's (local CA, IPA client for already deployed IPA server), adds users to corresponding systems (local system and/or IPA server).
+After setup is done, configured services/users/systems can be used in the tests.
 Tests ([link](https://github.com/x00Pavel/SC-tests)) are written using [Pytest](https://docs.pytest.org/) testing framework as an executor.
 
 > Currently, the framework undergoing a redesign with better architecture as the first attempt to implement such tool has several drawbacks caused by fewer practical knowledge about the area.

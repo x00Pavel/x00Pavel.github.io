@@ -38,7 +38,7 @@ language and Pytest framework
 
 + Implement IPFIX converter for second generation of
 [IPFIX collector](https://github.com/CESNET/ipfixcol2) using C language and
-developing unit tests with Googletest framework
+implementing unit tests with Googletest framework
 ([link](\href{https://github.com/x00Pavel/libfds/tree/json/src/converters))
 + Develop aggregation module for second generation of
 [IPFIX collector](https://github.com/CESNET/ipfixcol2) in C language
