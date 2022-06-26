@@ -1,6 +1,6 @@
 ---
 title: "About page"
-permalink: /about
+permalink: /
 layout: home
 ---
 ## Hello and Welcome to my personal website
