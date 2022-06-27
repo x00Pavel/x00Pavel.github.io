@@ -51,7 +51,7 @@ All projects are located on the personal [GitHub](https://github.com/x00Pavel) a
 
 ## Hard skills
 
-+ Python & Pytest **5/5**
++ Python & Pytest **4/5**
 + Bash **4/5**
 + Git **4/5**
 + Linux **4/5**
@@ -63,10 +63,10 @@ All projects are located on the personal [GitHub](https://github.com/x00Pavel) a
 ## Soft skills
 
 + Agile team player
-+ Fast learner
++ Time-management
 + Effective communication
-+ Empathy
 + Critical thinking
++ Problem Solving
 
 ## Languages
 
