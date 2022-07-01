@@ -68,6 +68,16 @@ All projects are located on the personal [GitHub](https://github.com/x00Pavel) a
 + Critical thinking
 + Problem Solving
 
+## Certifications
+
++ [Cisco CyberOps Associate](https://www.credly.com/badges/205cc174-9e04-4646-a05e-00812fc752b7/public_url)
+  
+  <img src="../images/cyberops-associate.png" alt="drawing" width="65%"/>
+
++ Red Hat System Administrator I (RH124)
+
+  <img src="../images/RH124.png" alt="drawing" width="65%"/>
+
 ## Languages
 
 + Czech, **B2**
