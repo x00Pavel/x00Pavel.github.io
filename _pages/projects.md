@@ -28,6 +28,25 @@ Tests ([link](https://github.com/x00Pavel/SC-tests)) are written using [Pytest](
 
 ---
 
+## AI & Machine Learning
+
+### [Model for Anomaly Detection in IEC104 Protocol](https://github.com/x00Pavel/IEC104-anomaly-detector-ml)
+
+Core of the project was to design, implement and tune machine learning model for
+anomaly detection in [IEC104](https://www.fit.vut.cz/research/publication-file/11570/TR-IEC104.pdf) protocol that is used for telecontrol (supervisory control and
+data acquisition) in electrical engineering and power system automation
+applications.
+
+For implementing this model I used Python language and One-Class SVM
+from [sci-kit learn](https://scikit-learn.org/stable/)
+Python framework and [pyshark](https://github.com/KimiNewt/pyshark) for parsing
+the PCAP files.
+After extracting interesting features from the protocol, dataset is split into
+5, 10, 15 minutes intervals. These interval then passed to the model for
+evaluation if there are any anomalies. Read more in the [documentation](https://github.com/x00Pavel/IEC104-anomaly-detector-ml/blob/main/documentation.pdf).
+
+---
+
 ## Network
 
 ### [SSL Monitor](https://github.com/x00Pavel/SSL-monitor)
